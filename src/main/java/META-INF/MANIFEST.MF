@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: io.dino.learning.springbootbackend.SpringbootBackendApplicat
+ ion
+
